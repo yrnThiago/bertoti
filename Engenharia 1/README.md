@@ -6,4 +6,8 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 
 
+Exemplos Trade-Offs:
+Nvidia ou AMD
+C ou C#
+Intel ou AMD
 
