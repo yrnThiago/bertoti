@@ -3,11 +3,17 @@ We see three critical differences between programming and software engineering: 
 
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
+Comentário:
+Programacão + Tempo nao é apenas criar o código para o atual momento mas sim, ja criar pensando em futuras manutenções, fazer um código limpo, facil de outras pessoas entenderem.
+
+Escala é a finalidade da sua aplicação, se será para 1 mil usuários ou 1 milhão de usuários, ter uma estrutura para suportar a sua finalidade e os interesses de seus usuários.
+
+Trade-offs é comparar softwares com diferenetes usabilidades e propósitos.
 
 
 
 Exemplos Trade-Offs:
-Nvidia ou AMD
-C ou C#
+Django ou Flask
+Javascript ou Typescript
 Intel ou AMD
 
