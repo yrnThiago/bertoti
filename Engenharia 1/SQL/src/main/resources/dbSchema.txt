@@ -1,0 +1,16 @@
+Following is the database schema.
+
+DROP TABLE IF EXISTS clientes;
+create table clientes (
+	cli_id int primary key auto_increment,
+    cli_nome varchar(30)
+);
+
+DROP TABLE IF EXISTS alunos;
+create table alunos(
+	aluno_id int primary key auto_increment,
+    aluno_nome varchar(30)
+);
+
+Generate only a valid (syntactically correct) executable Postgres SQL query (without any explanation of the query) for the following question (translate question from portuguese to english unless tables name, sql commands):
+`<question>`:
